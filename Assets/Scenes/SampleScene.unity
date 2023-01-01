@@ -517,7 +517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _generalPoint: {fileID: 2115655662}
-  _prefab: {fileID: 5514100841816523006, guid: cfb1ae1c3503ce54cbf8ea402053c449, type: 3}
+  _enemy: {fileID: 321069861275161945, guid: cfb1ae1c3503ce54cbf8ea402053c449, type: 3}
 --- !u!4 &2115655662
 Transform:
   m_ObjectHideFlags: 0
